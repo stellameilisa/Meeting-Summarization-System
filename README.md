@@ -10,7 +10,6 @@ Team Project:
 if you never run python in your pc, please install python 3.7 first
 link : https://www.python.org/downloads/release/python-377/
 
-
 if you first try this program, please install this first:
 pip install --upgrade google-api-python-client
 pip install --upgrade google-cloud-speech
