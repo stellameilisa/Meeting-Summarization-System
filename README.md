@@ -11,11 +11,10 @@ if you never run python in your pc, please install python 3.7 first
 link : https://www.python.org/downloads/release/python-377/
 
 if you first try this program, please install this first:
-
-pip install --upgrade google-api-python-client
-pip install --upgrade google-cloud-speech
-pip install --upgrade google-cloud-storage
-pip install pydub
-pip install nltk
-pip install spacy
-python -m spacy download en_core_web_sm
+1. pip install --upgrade google-api-python-client
+2. pip install --upgrade google-cloud-speech
+3. pip install --upgrade google-cloud-storage
+4. pip install pydub
+5. pip install nltk
+6. pip install spacy
+7. python -m spacy download en_core_web_sm
